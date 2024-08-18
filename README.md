@@ -25,3 +25,12 @@ the lower version.
   - Main.storyboard
   - LaunchScreen.storyboard
 
+**SCREENSHOTS**
+
+![alt text](https://github.com/suheilc/TVTime/blob/main/Screenshots/Working1.png)
+
+![alt text](https://github.com/suheilc/TVTime/blob/main/Screenshots/Working2.png)
+
+![alt text](https://github.com/suheilc/TVTime/blob/main/Screenshots/Working3.png)
+
+![alt text](https://github.com/suheilc/TVTime/blob/main/Screenshots/Working4.png)
